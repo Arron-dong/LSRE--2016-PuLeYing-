@@ -1,4 +1,4 @@
-Homework Requirement
+ Homework Requirement
 – Write down the questions posed by the teacher
 – Write down your log of searching for answers to the questions
 – Full references of articles you read
@@ -7,7 +7,10 @@ Homework Requirement
 – your answers to the questions.
 – Summary of the discussion around the question.
 
- Homework 1.23
+
+
+
+Homework 1.23
 Q1:What is large scale requirements engineering?
 
 Q2:What are the challenges in large scale requirements engineering?
