@@ -20,10 +20,11 @@ At last, the author comes up with a hybrid approach based on integer linear prog
 
 Article "A Case Study Evaluation of the Guideline-Supported QUPER Model for Elicitation of Quality Requirements" 
 This is the parper through a case study to evaluate QUPER Model for Elicitation of Quality Requirements.
-QUPER Model aims to support high-level decision-making in release planning of quality requirements. The author points the steps of Step1: Identify candidate QR. It refers that when we define QR, we have to consider relevent features, niche market, competitors, and the hardware platform.
+QUPER Model aims to support high-level decision-making in release planning of quality requirements. The author points the steps of QUPER  Model.
+Step1: Identify candidate QR. It refers that when we define QR, we have to consider relevent features, niche market, competitors, and the hardware platform.
 Step2: Define scale and unit. It means that a scale and a measurement unit can be used to help us express the level of QR.
 Step3: Identify reference levels. It is based on actual products and help further calibrate QR's estimaiton and objective measures.
-Step4: Elicit quality breakpoints.
+Step4: Elicit quality breakpoints. This step is that, firstly,the utility breakpoint is determined. Then, the saturation breakpoint is determined. We determine the differentiation breakpoint between the utility and the saturation that build above.
 Step5: Estimate cost barriers. It recommands that identify 2 similar quality requirements from other projects as input, for one is mainly related to software changes and the other is related to hardware components.
 Step6: Set candidate requirements. We can specify two targets like Good or Stretch target to specify the interval of a actual QR.
 Step7: Identify cost dependencies :If more than two QR affect, they always dependent. Or we can use existing dependency tools to identify dependencies.
