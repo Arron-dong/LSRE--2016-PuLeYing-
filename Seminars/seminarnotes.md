@@ -25,7 +25,8 @@ Step2: Define scale and unit. It means that a scale and a measurement unit can b
 Step3: Identify reference levels. It is based on actual products and help further calibrate QR's estimaiton and objective measures.
 Step4: Elicit quality breakpoints.
 Step5: Estimate cost barriers. It recommands that identify 2 similar quality requirements from other projects as input, for one is mainly related to software changes and the other is related to hardware components.
-Step6: Set candidate requirements
+Step6: Set candidate requirements. We can specify two targets like Good or Stretch target to specify the interval of a actual QR.
+Step7: Identify cost dependencies :If more than two QR affect, they always dependent. Or we can use existing dependency tools to identify dependencies.
 
 
 
