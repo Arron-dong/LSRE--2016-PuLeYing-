@@ -28,9 +28,26 @@ Step4: Elicit quality breakpoints. This step is that, firstly,the utility breakp
 Step5: Estimate cost barriers. It recommands that identify 2 similar quality requirements from other projects as input, for one is mainly related to software changes and the other is related to hardware components.
 Step6: Set candidate requirements. We can specify two targets like Good or Stretch target to specify the interval of a actual QR.
 Step7: Identify cost dependencies :If more than two QR affect, they always dependent. Or we can use existing dependency tools to identify dependencies.
+After introuding QUPER, the author tells us about his case study evaluation of QUPER.Two methodologys used by the author are interviews and questionnaires. He finds that it is important to concrest guidelines combined with instructive examples from real practice.Future work includes industry assessments in different areas. The long-term impact of using QUPER needs to be investigated in order to adequately validate its feasibility and scalability.
+In addition, in order to replicate this empirical study in the same field, the usefulness and applicability of the QUPER model in different companies is an interesting future work. In addition, the transferability of guidelines and examples used to support methodological adoption and the use of analog-based estimates are interesting questions for further study.
 
+Article"Introducing support for release planning of quality requirements –an industrial evaluation of the QUPER model"
 
+The author introduce that the QUPER model was developed by three main steps: Problem Definition, Model Definition and Model validation. Meanwhile this model aims at supporting prioritizaiton and roadmapping of QR at early ages of release planning.
+The author planned the following steps of using the QUPER at Sony Session: 1.Define quality aspects 2. Estimate the current quality of our product and make a competition. 3. Estimate the breakpoint for each quality aspects and relevant qualifier.
+In this paper,the author presents an industrial evaluation of QUPER model at Sony Ericsson through an interview-workshop-interview step. 
+He found that QUPER is easy to understand and learn, straightforward and not complicated for the current practice of Sony Ericsson. In fact, all subjects indicate that they are and will use QUPER. In addition, the concept behind QUPER improves communication among employees about the need for prioritization. The main challenge is that it is difficult to identify and specify the values of the split and saturation breakpoints. In addition, a different understanding of the value of staff break-points was presented as a challenge.
 
+Article "A Market-Driven Requirements Engineering Process: Results from an Industrial Process Improvement Programme"
+In this paper, the author describes a specific RE process called REPEAT (Requirements Engineering ProeSS At Teleogic). It is a process that manage the requirements through a whole release cycle.
+First, the role involved in REPEAT can be various:Requirements Management Group, Issuer,Customers & users,Requirements team, Construction team,Test team, Expert and Requirements Database.
+Meanwhile each unique requirement has a life cycle throught specific states: New,Assigned,Classified, Selected (this 4 states can be Rejected)and Applied.
+REPEAT includes several phases:
+1.Elicitation Phase includes collection(made by an issuer in the web form and upload for storing in RQDB) and classificaiton(throught RQMG by assigning it to an expert).
+2.Selection Phase the aim of the phase is to 1.select requirements to exexcute in the current release. 2. make the selected requirements more detail 3.Validate the document of requirement  This phase will output the RD includes a selected list,a detailed specification an a notselected list.
+3.The 3rd phase include Change management, Construction(using an iterative design and implementation process), Verification(using requirements-based testing method) and Conclusion(collect metrics and write a final report)
+4.There are some Process Enactment Scenarios of REPEAT
+In the end ,the author point out some challenges which can be fixed and improved in the future: overload control, connecting fragments, Long-term product strategy and so on.
 
 Q1:What is large scale requirements engineering?
 
