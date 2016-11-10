@@ -61,6 +61,7 @@ REPEAT includes several phases:
 3.The 3rd phase include Change management, Construction(using an iterative design and implementation process), Verification(using requirements-based testing method) and Conclusion(collect metrics and write a final report)
 4.There are some Process Enactment Scenarios of REPEAT
 In the end ,the author point out some challenges which can be fixed and improved in the future: overload control, connecting fragments, Long-term product strategy and so on.
+
 I quite agree with the Fig 1."The states of a requirement in the REPEAT process" shown. Build a good requiremtn is a strict and long process, every step is important, once some risk or problem come up with, we can reject the requirement.
 The challenge that the author mentioned are worth considering.  For Overload control:there will be a lot of informaiton through the website interface everyday. A mechanism that building sustainable requirements architecture can help solve this risk.
 
