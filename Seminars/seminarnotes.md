@@ -6,6 +6,8 @@
 - your synthesis!
 - your answers to the questions.
 - Summary of the discussion around the question.#
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 Homework 1.23 Date 11.3-11.10
