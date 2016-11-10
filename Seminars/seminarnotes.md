@@ -23,6 +23,9 @@ When the author points out the Dependencies between features, it is really impor
 Different Stakeholder has different influence in planning, a product has different functions aims at serving different stakeholders, give a degree to stakerholders and later we can judge the importance of information from stakerholders.
 I think the approach with the modeling-exploation-consolidation step is good. It is very effective.
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
 Article "A Case Study Evaluation of the Guideline-Supported QUPER Model for Elicitation of Quality Requirements" 
 This is the parper through a case study to evaluate QUPER Model for Elicitation of Quality Requirements.
 QUPER Model aims to support high-level decision-making in release planning of quality requirements. The author points the steps of QUPER  Model.
@@ -40,6 +43,7 @@ For this paper, i agree with that there is a great need for a supporting model f
 Then i think eliciting quality breakpoints is very important. As i find that QUPER-benefit view,there are utility breakpoint,differentiation breakpoint and saturation breakpoint. Both too low or too high quality is bad for the product, so we have to balance it and find breakpoints to help us make it well.
 
 
+------------------------------------------------------------------------------------------------------------------------------------------
 
 Article"Introducing support for release planning of quality requirements –an industrial evaluation of the QUPER model"
 
@@ -52,6 +56,8 @@ I am quite for the figure 1. and figure 2. The realationship between Quailty lev
 The author want to evaluate the QUPER model in industrial area, the method he used is quite nice and the aim is to evaulate QUPER-benefit view. When we develop the level of QUPER, the benefit is increase apparently. 
 The one interview before the workshop, and the other after the workshop. This is kind of good, for the staff can experience the process of QUPER in real project. Their feedback can be vauluable.
 
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Article "A Market-Driven Requirements Engineering Process: Results from an Industrial Process Improvement Programme"
@@ -69,6 +75,7 @@ I quite agree with the Fig 1."The states of a requirement in the REPEAT process"
 The challenge that the author mentioned are worth considering.  For Overload control:there will be a lot of informaiton through the website interface everyday. A mechanism that building sustainable requirements architecture can help solve this risk.
 
 
+------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Q1:What is large scale requirements engineering?
@@ -83,6 +90,8 @@ From the paper 4: overload control, connecting fragments, Long-term product stra
 
 Q3:What is the order of magnitude of the number of requirements we are discussing?
 1000 requirements  （SSRE 10 ,MSRE 100, VLSRE 10000）
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Reference 
