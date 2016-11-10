@@ -79,16 +79,22 @@ The challenge that the author mentioned are worth considering.  For Overload con
 
 
 Q1:What is large scale requirements engineering?
-The complexity and size of software intense system grows continously which in turn gives increasingly large number and complex sets of requirements. As a result, the siez and complexity of requirements datebase grow faster[1]. 
+
+The complexity and size of software intense system grows continously which in turn gives increasingly large number and complex sets of requirements. As a result, the size and complexity of requirements datebase grow faster[1]. 
 
 Q2:What are the challenges in large scale requirements engineering?
+
 1.Sustainable requirements architectures: fighting information overload
+
 2.Effective requirements abstractions: fighting combinatorial explosions.
+
 3.Emergent quality predictions: fighting over-scoping
+
 From the paper 4: overload control, connecting fragments, Long-term product strategy and so on.
 
 
 Q3:What is the order of magnitude of the number of requirements we are discussing?
+
 1000 requirements  （SSRE 10 ,MSRE 100, VLSRE 10000）
 
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -96,10 +102,17 @@ Q3:What is the order of magnitude of the number of requirements we are discussin
 
 Reference 
 [1] Visualizing, Analyzing and Managing the Scope of Software Releases in Large-Scale Requirements Engineering
+
 [2] Wiegers K, Beatty J. Software requirements[M]. Pearson Education, 2013.
+
 [3] Robertson S, Robertson J. Mastering the requirements process: Getting requirements right[M]. Addison-wesley, 2012.
+
 [4] Kotonya G, Sommerville I. Requirements engineering: processes and techniques[M]. Wiley Publishing, 1998.
+
 [5] Lauesen S. Software requirements: styles and techniques[M]. Pearson Education, 2002.
-[6]Leffingwell D. Agile software requirements: lean requirements practices for teams, programs, and the enterprise[M]. Addison-Wesley Professional, 2010.
+
+[6]Leffingwell D. Agile software requirements: lean requirements practices for teams, programs, and the enterprise[M]. Addison-Wesley
+Professional, 2010.
+
 [7]Wohlin C. Engineering and managing software requirements[M]. Springer Science & Business Media, 2005.
 
