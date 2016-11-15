@@ -56,10 +56,24 @@ For RQ1: Usability is demand the most important QR in general and especially for
 
 From my point of views, not all QR are equally important for different types of companies. And the insight of difference can cause the difference in priorities. The result about interdependency that the author found helps us understand what types of interdependent relationships are considered the most important to be given to practitioners the instructions which begin to identify. For the role of expert is very impoartent, they can make the estimaiton more accurate based on their experience. At last but not the least, too little considering QR in project planning is still a big problem, so it is very important for PM to focus on and rely on QR to achieve beneficial advantages. 
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Article "A cost-value approach for prioritizing requirements"
 
+In this paper, the author mainly introduces the cost-value approach for prioritizing requirements which can help effectively and accurately manage the system requirement from stakerholder.
+There are 5 steps to prioritize requirements.
 
+1.The requirement engineer review the candidate requirements, checking their completeness and make sure they are started in a right way.
+2.Apply AHP’s pairwise comparison method to get the value of the candidate requirements.
+3.Estimate the cost of implementing candidate requirements by experts.
+4.Build a cost-value diagram based on the data from step3 and step4 
+5.Stakeholders use cost-value diagram to discuss about the candiadate requirements and select some candidate requirements for RP.
+The author put the method in two case studies and says that the approach is useful and both value and cost is ordered by magnitude, through this diagram, we can maximize satisfaction of the stakeholder .
+
+I think the approach the author points out is useful and easy to realize. The cost and vaule is what we have to balance when we do the software requirement. Through such a value-cost diagram we can directly judge whether a candidate requirement is suitable for our development.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
 Reference
 
 [1]Gorschek T. Requirements engineering supporting technical product management[J]. 2006.
