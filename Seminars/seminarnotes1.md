@@ -28,7 +28,27 @@ For large scale, we should detail the each part while we keep caring about the r
 
 Article "Gorschek & Wohlin “Requirements Abstraction Model"
 
+For this article, the author put forward a model with abstraction levels which as a response to the industrial need.The goal of RAM is to offer PM a model supporting the ability to handle requirement on multiple levels of abstraction in software requirement engineering effort.
+RAM(Requirement Abstraction Model)has several benefits:
+1.Compare all requirements to the product stratiegies to ensure that the requirements follow the management demand.
+2.Break all the requirements down to an abstraction level where they could initiate a development effort. 
+3.Work-up of the requirements that make the requirement formulated on the same level and the requirement can be compared
+4.Through several levels of abstraction, all requirements can be early understand. Thus decisions about requirements can be better made.
 
+How to action the RAM is also specified in the parer.
+The fisrt step is Specify :
+a. (Description) make a brief description about the requirement b.(Benfit&Reason) The content about why this requirement and the benefit of implementing this requirement should be explained c.(Risks) descirbe the potential risk d.(Title) build a title of the requirement within 5 words
+
+The second step is Place:
+The step is analyzing the level of a requirement and place it on the corresponding level. For RAM there are 4 abstraction levels: Product level, feature level and component level.
+
+The third step is Abstraction(work up):
+it includes 2 parts: 1.Make all requirements connact to the Product Level 2.Break down all requirements to Function Level.
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Article "A method for early requirements triage and selection utilizing product strategies"
 
