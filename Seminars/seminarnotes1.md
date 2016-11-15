@@ -1,3 +1,5 @@
+Questions:
+
 GAP Analysis
 
 Gap analysis is a way to assess the performance differences between business information systems or software applications to determine whether or not to meet the business requirements
@@ -45,8 +47,7 @@ The step is analyzing the level of a requirement and place it on the correspondi
 The third step is Abstraction(work up):
 it includes 2 parts: 1.Make all requirements connact to the Product Level 2.Break down all requirements to Function Level.
 
-
-
+From my point of view, RAM the author points out is really useful for the solving the direct need in industry. In addition, i am sure that the evolution of RAM will go on, incorporating explicit support for requirements estimation, risk analysis, prioritization and requirements packaging into development practice. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
