@@ -10,13 +10,16 @@ IVA Analysis
 Internal value analysis, is a measurement whether a product compliance with the company's other products or strategies in the limits of mental resources.
 
 What tools are available for Continuous Integration?
+
 Jenkins, Buildbot, Travis CI, Strider. They are all open source tools.
 I have no experience about using aboved tools, but from other's using experience, I know that Jenkins is a open-source continuous integration tool which is developed in Java. It has two major jobs: building/tesing software project continously and monitoring externally run jobs. We are able to build Apache Ant and Apache Maven based projects and other shell scripts or batch files for the pre or the post-build activities.
 
 What is technical product management?
+
 The technical product management needs Technical product managers who have understand the company technology at a deep level and interface with the Development Team in order to successfully lead the strategy for the product. Always the management includes several activity:1. Focus on the bussiness side   2. Use the technical skills to imporve priorization and the planning 3. Leverage the technical skills to close the communicaiton gap between the software prduct itself and the rest of the world.
 
 What is roadmapping? How can you do it large scale?
+
 Roadmapping is a technique that aims for planning an organization's technical capabilities to ensure that they meet their business or strategic objectives. The graphical characteristics of the roadmap support the strategic adjustment and dialogue between the functions of the enterprise and the organization. In other words, roadmapping has three major functions: 1.help reach a consenus about the requirement of technologies and needs 2. Provide a mechanism to help the future development work 3.Provide a framework to help plan the software development.
 For large scale, we should detail the each part while we keep caring about the relationship between each part.
 
@@ -51,7 +54,7 @@ In this paper, the author presnets an empirical study by collectiong data with 2
 For the author's conclusion we can find some useful information and points.
 For RQ1: Usability is demand the most important QR in general and especially for B2C. Meanwhile, safety is considered the most important aspect for B2B. For RQ2: The author summarize that REQUIRES(the most common for B2B) and CVAULE(the most common for B2C) are consider as the most common and important interdependency type to identify. For RQ3:the findings are that there is no big distinction between Functional requirement and Quality requirement during cost estimation. And expert opinion plays an important role for estimation. For RQ4,the author finds that the QR has different priority in different situation and he points out that the QR should be acknowledged by practitioners, mainly in practive not only theory.
 
-From my point of views, not all QR are equally important for different types of companies. And the insight of difference can cause the difference in priorities. The result about interdependency that the author found helps us understand what types of interdependent relationships are considered the most important to be given to practitioners the instructions which begin to identify. For the role of expert is very impoartent, they can make the estimaiton more accurate based on their experience. At last but not the least, too little considering QR in project planning is still a big problem, so it is very importan for PM to focus on and rely on QR to achieve beneficial advantages. 
+From my point of views, not all QR are equally important for different types of companies. And the insight of difference can cause the difference in priorities. The result about interdependency that the author found helps us understand what types of interdependent relationships are considered the most important to be given to practitioners the instructions which begin to identify. For the role of expert is very impoartent, they can make the estimaiton more accurate based on their experience. At last but not the least, too little considering QR in project planning is still a big problem, so it is very important for PM to focus on and rely on QR to achieve beneficial advantages. 
 
 
 Article "A cost-value approach for prioritizing requirements"
