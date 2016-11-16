@@ -2,7 +2,7 @@ Questions:
 
 GAP Analysis
 
-Gap analysis is a way to assess the performance differences between business information systems or software applications to determine whether or not to meet the business requirements
+Gap analysis is a way to assess the performance differences between business information systems or software applications to determine whether or not to meet the business requirements. GAP analysis measures positive and negative 'gaps' between what the product offers and what the customer perceives[1]
  
 CVA Analysis
 
@@ -99,4 +99,3 @@ I think the approach the author points out is useful and easy to realize. The co
 Reference
 
 [1]Gorschek T. Requirements engineering supporting technical product management[J]. 2006.
-
