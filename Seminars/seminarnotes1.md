@@ -6,7 +6,7 @@ Gap analysis is a way to assess the performance differences between business inf
  
 CVA Analysis
 
-Customer value analysis, is the measurement of the same variable as the gap analysis, but adds a competitor's product of the process, analyzing the product, judging it's disadvantages compared to that of the competitor's products.
+Customer value analysis, is the measurement of the same variable as the gap analysis, but adds a competitor's product of the process, analyzing the product, judging whether it's disadvantages compared to that of the competitor's products.
 
 IVA Analysis
 Internal value analysis, is a measurement whether a product compliance with the company's other products or strategies in the limits of mental resources.
@@ -47,11 +47,32 @@ The step is analyzing the level of a requirement and place it on the correspondi
 The third step is Abstraction(work up):
 it includes 2 parts: 1.Make all requirements connact to the Product Level 2.Break down all requirements to Function Level.
 
-From my point of view, RAM the author points out is really useful for the solving the direct need in industry. In addition, i am sure that the evolution of RAM will go on, incorporating explicit support for requirements estimation, risk analysis, prioritization and requirements packaging into development practice. 
+From my point of view, RAM the author points out is really useful for the solving the direct need in industry. In addition, i think that the evolution of RAM will go on, incorporating explicit support for requirements estimation, risk analysis, prioritization and requirements packaging into development practice. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 Article "A method for early requirements triage and selection utilizing product strategies"
+
+In this paper, the author presents a method for early requirements triage and selection utilizing product startegies.
+
+The bad situation is that in market-driven product development, there are a plenty large numbers of requirements which may overload the development organization. It is very important for come up with a good solution for the project management to help select the requirements based on the overall business goal and give up others.
+
+The Early Requirements Trige has several steps
+Step 1 Specify: this is the step that can help explicitly state the goals of a product. We have to answer several questions focus on Where to go, How to get and What to do.
+
+Step 2 Assign Weights:In this step, we will assign each of factors in the last answers.
+
+Step 3 Compare Requirements:All requirements are assigned points for factors. Then the tool can help do the normalization based on the points for each requirement and make a clear comparison.
+
+Later the author points out about the Requirement selection for release
+
+Step 1 Specify product-technology roadmap: For this step, we have to draw a prodcut-technology roadmap for help us understand the relationship between releases and technonogy generations.
+
+Step 2:Estimate resoucre: Based on the result of the Step 1, we have to analyze the feasibility of the requirements. Estimate their cost,effort and time based on differenet methods.
+
+For the author's conclusion, the use of MERTS requires times and resources to understand and formalize. Meanwhile a "tailroing" is made to make the MERTS to fit different sizes of enterprises.
+
+From my points of view, the MERTS method that the author points out is quite good. The step of answer Where to go? How to get there? What to do? and the Table build is really helpful. We can also read the factors and weightings of factors, sub classification ,etc.  
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 Article "Requirements Engineering. In search of dependent variables"
@@ -99,3 +120,4 @@ I think the approach the author points out is useful and easy to realize. The co
 Reference
 
 [1]Gorschek T. Requirements engineering supporting technical product management[J]. 2006.
+[2]Gorschek T, Davis A M. Requirements engineering: In search of the dependent variables[J]. Information and Software Technology, 2008, 50(1): 67-75.
