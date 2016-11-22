@@ -1,4 +1,4 @@
-Boston Matrix
+About Boston Matrix
 
 The Boston Matrix is a more informal marketing tool used for product portfolio analysis and management. 
 It considers the degree of market share and market growth and helps identify where best to use resources to maximize profit from a product management perspective. 
@@ -15,7 +15,10 @@ How do you connect your requirements to your architecture?
 
 
 For the requirement, the inputs to your design can help you to formalize the requirements and constraints that your architecture must accommodate. 
-When we design our architecture, we should follow iterative steps based on our requirements: 1. Identify Architecture Objectives 2.Key Scenarios 3.Application overview 4.Key issues 5.Candidate solutions.
+When we design our architecture, we should follow iterative steps based on our requirements: 
+
+1. Identify Architecture Objectives 2.Key Scenarios 3.Application overview 4.Key issues 5.Candidate solutions.
+
 Later I have read a article named "Weaving together requirements and architectures"[5],he mentioned the twin Peaks model which can help develop progressively more detailed requirements and architectural specifications concurrently.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -33,6 +36,7 @@ A Requirement element can be connected to other Requirements, most commonly usin
 
 For this paper, the author aims at providing a structure for software product management by providing a reference framework.
 For a basic framework structure: a software product management can set into 4-process area:
+
 1.	Portfolio management: collecting of existing products, by looking for market trends and product development strategy, the decision of the product life cycle, and the establishment of a partnership and a new contract products.
 2.	Product roadmapping: Planning and description of the use of science and technology resources, elements and their structural relationships in a period of time.
 3.	Release planning: The release planning follow the step of prioritization, selection, write release definition, package for a prepared vision.
@@ -48,6 +52,7 @@ I agree with the author idea about the interaction of stakeholders. Usually, mor
 “Market-Driven Requirements Engineering for Software Products” 
  
 This paper is through an interview survey study to present the current practices and challenges in MDRE. For the results from the interview study, the author finds that there are some differences between the general study and actual companies implement:
+
 Elicitation: Techniques such as customer visits, meeting with sales personnel, and working in customer’s projects are used. Many requirements are gathered from the internal sources.
 Documentation: Using natural language is the most common way of documenting the requirements
 Analysis: For this activity, most of the work is performed through group-discussions which can consisting of different kinds of participants and gaining different perspectives.
@@ -65,7 +70,7 @@ From the page of Scaled Agile Framework, I can see several case studies, which f
 For the SAFe, there are many users, and most of them feel good about using it.
 SAFe can help deliver faster with better quality and less manpower. And as a good framework, it can help improve the quality, productivity, and employee satisfaction of the product, for example, there is a 40% defect reduction from their first round with SAFe, and 20% quality improvement and faster delivering of HP Enterprise.
 
-I am support the framework can make an important role, and believe the comment are reliable. For the need for a reference framework for software product management is found in the desire to get an understanding of its complete domain. [3] 
+I am support the framework can make an important role, and believe the comment are reliable. For the need for a reference framework for software product management is found in the desire to get an understanding of its complete domain[3]. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
  
@@ -73,6 +78,7 @@ I am support the framework can make an important role, and believe the comment a
  
 In this article, the author talks about the Scope management that is an important part of software release management and a key factor of releasing successful software product.
 For the interview result, the author summarizes and lists some causes of overscoping that are partly agreed and helpful for our study:
+
 1.	Continuous requirements inflow via multiple channels.
 2.	No overview of software resource availability
 3.	Low DT involvement in early phases
@@ -90,15 +96,16 @@ The author points out the causes and effects through this study. What he summari
 
 For this paper, the purpose of the author is to figure out which characteristics of change requests may influence the decision lead-time and outcome of decision. The characteristics can be various: number of products, release number, the type of customer.
 As the result the study can present:
+
 1. The lead-time to make a decision increases when the products become more.
 2. There is no significant relationship between the product releasing that a change influences and the decision lead-time.
-3.Change requests from important customers can reduce the lead-time for decisions.
+3. Change requests from important customers can reduce the lead-time for decisions.
 4. The chance of receiving a change request is higher if it affects more products
 5. There is a significantly higher probability of acceptance of the changes required for late versions
 6. Change requests made by key customers are more likely to be accepted.
 7. Refusing to decide the advance time is longer than the time to accept the decision.
 
-As we can see from the article, the author thinks that an important customer plays a significant role in decision, for software development companies should adapt their practices to customers and new research efforts addressing these issues are necessary, the more important the customer is, the higher he will influence[3].
+As we can see from the article, the author thinks that an important customer plays a significant role in decision. From i read an article, for software development companies should adapt their practices to customers and new research efforts addressing these issues are necessary, the more important the customer is, the higher he will influence[3].
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
