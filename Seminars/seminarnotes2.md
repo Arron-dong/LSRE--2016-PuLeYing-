@@ -1,6 +1,5 @@
 Boston Matrix
 
-
 The Boston Matrix is a more informal marketing tool used for product portfolio analysis and management. 
 It considers the degree of market share and market growth and helps identify where best to use resources to maximize profit from a product management perspective. 
 The Boston Matrix describes the impact of market share and market growth on businesses by using four categories: 
@@ -9,21 +8,26 @@ Cash cows: High market share in low growing market
 Question marks: Low market share in a high growing market
 Stars: High market share in a high growing market
 
+(from wikipia and reference Hax A C, Majluf N S. The use of the growth-share matrix in strategic planning[J].)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 How do you connect your requirements to your architecture?
 
 
 For the requirement, the inputs to your design can help you to formalize the requirements and constraints that your architecture must accommodate. 
 When we design our architecture, we should follow iterative steps based on our requirements: 1. Identify Architecture Objectives 2.Key Scenarios 3.Application overview 4.Key issues 5.Candidate solutions.
+Later I have read a article named "Weaving together requirements and architectures"[5],he mentioned the twin Peaks model which can help develop progressively more detailed requirements and architectural specifications concurrently.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 Can you connect all requirements directly? What do you do if you cannot?
 
 We can’t connect all requirements directly.
+
 A Requirement element can be connected to other Requirements, most commonly using Aggregate relationships to form a hierarchy of requirements. These relationships are very important, both in identifying how the Requirements are organized and used in the model, and in tracing the development from the Requirements throughout the model. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
 “Towards a reference framework for software product management”
 
 
@@ -123,3 +127,5 @@ Extra Reference:
 [3] De La Vara J L, Hoyos L, Collado E, et al. Towards customer-based requirements engineering practices[C]//2012 Second IEEE International Workshop on Empirical Requirements Engineering (EmpiRE). IEEE, 2012: 37-40.
 
 [4]Dahlstedt A G, Persson A. Requirements interdependencies-moulding the state of research into a research agenda[C]//Proceedings of Ninth International Workshop on Requirements Engineering: Foundation for Software Quality, Klagenfurt/Velden, Austria. 2003: 55-64.
+
+[5]Nuseibeh B. Weaving together requirements and architectures[J]. Computer, 2001, 34(3): 115-119.
