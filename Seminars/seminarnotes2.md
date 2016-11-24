@@ -4,9 +4,19 @@ The Boston Matrix is a more informal marketing tool used for product portfolio a
 It considers the degree of market share and market growth and helps identify where best to use resources to maximize profit from a product management perspective. 
 The Boston Matrix describes the impact of market share and market growth on businesses by using four categories: 
 Dogs: Low market share and low market growth problems.
+The usual marketing advice is to remove any dogs from your product portfolio as they are a drain on resources.
+However, some can generate ongoing revenue with little cost.
+
 Cash cows: High market share in low growing market
+Milk these products as much as possible without killing the cow!. Often mature, well established products.
+
 Question marks: Low market share in a high growing market
+Named this, as it’s not known if they will become a star or drop into the dog quadrant. These products often require significant investment to push them into the star quadrant. The challenge is that a lot of investment may be required to get a return.
+
 Stars: High market share in a high growing market
+Can be the market leader though require ongoing investment to sustain. They generate more ROI than other product categories.
+
+The apparent implication of its four-quadrant form is that there should be balance of products or services across all four quadrants.
 
 (from wikipia and reference Hax A C, Majluf N S. The use of the growth-share matrix in strategic planning[J].)
 
