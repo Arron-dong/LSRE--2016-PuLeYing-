@@ -3,6 +3,12 @@ Questions:
 GAP Analysis
 
 Gap analysis is a way to assess the performance differences between business information systems or software applications to determine whether or not to meet the business requirements. GAP analysis measures positive and negative 'gaps' between what the product offers and what the customer perceives[1]
+For a gap analysis, we can follow 5 steps:
+1.Decide the topic we’re going to do the Gap Analysis on
+2.Identify where we are right now based on metrics or attributes
+3.Identify where we’d like to be over a specific time frame
+4.Identify the gap between where we are and where we want to be.
+5.Determine how the Gap should be filled.
  
 CVA Analysis
 
@@ -47,7 +53,9 @@ The step is analyzing the level of a requirement and place it on the correspondi
 The third step is Abstraction(work up):
 it includes 2 parts: 1.Make all requirements connact to the Product Level 2.Break down all requirements to Function Level.
 
-From my point of view, RAM the author points out is really useful for the solving the direct need in industry. In addition, i think that the evolution of RAM will go on, incorporating explicit support for requirements estimation, risk analysis, prioritization and requirements packaging into development practice. 
+From my point of view, RAM the author points out is really useful for the solving the direct need in industry.
+From another article that about a study[3] result based on the study of 11 RAM specified requirements were selected and an exercise was conducted in academia,states that RAM provides an effective way of managing QRs and is in compliance to the ISO-9126 quality model and RAM is equally feasible for managing quality requirements as it has other benefits of requirement management.
+In addition, i think that the evolution of RAM will go on, incorporating explicit support for requirements estimation, risk analysis, prioritization and requirements packaging into development practice. As the author menitoned that the work name for this endeavor isRAMv.2.0. Requirements engineering closer to and within projects will be incorporated.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -120,4 +128,10 @@ I think the approach the author points out is useful and easy to realize. The co
 Reference
 
 [1]Gorschek T. Requirements engineering supporting technical product management[J]. 2006.
-[2]Gorschek T, Davis A M. Requirements engineering: In search of the dependent variables[J]. Information and Software Technology, 2008, 50(1): 67-75.
+
+
+[2]Gorschek T, Davis A M. Requirements engineering: In search of the dependent variables[J]. Information and Software Technology, 2008,
+50(1): 67-75.
+
+
+[3]Mahmood F, Rasheed W. Quality Requirement Abstraction Model (QRAM)[J]. 2014.
