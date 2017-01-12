@@ -43,9 +43,10 @@ Roadmapping is a technique that aims for planning an organization's technical ca
 For large scale, we should detail the each part while we keep caring about the relationship between each part.
 
 From article[4], the author says that Product roadmapping is an approach to manage high-level view to like business aspects to RE.
-The purpose is that 
+The purpose is that:
+
 1.How to provide important market the right product at the right time
-2. How to improve the cross-functional process to create a new product
+2.How to improve the cross-functional process to create a new product
 
 -------
 
@@ -70,6 +71,10 @@ The step is analyzing the level of a requirement and place it on the correspondi
 
 The third step is Abstraction(work up):
 it includes 2 parts: 1.Make all requirements contact to the Product Level 2.Break down all requirements to Function Level.
+
+For envolvement of the requirement abstraction Moedel, the author mentioned two methods:
+1.Static Validation: Through ways like review and walkthroughs to validate the product
+2.Dynamic Validation:Tested in a live industry setting 
 
 From my point of view, RAM the author points out is really useful for the solving the direct need in industry.
 From another article that about a study[3] result based on the study of 11 RAM specified requirements were selected and an exercise was conducted in academia,states that RAM provides an effective way of managing QRs and is in compliance to the ISO-9126 quality model and RAM is equally feasible for managing quality requirements as it has other benefits of requirement management.
