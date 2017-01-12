@@ -1,4 +1,6 @@
 
+# Seminar 1
+
 ## Homework 1.23 Date 11.3-11.10
 -------
 
@@ -37,9 +39,9 @@ From the paper [4]: overload control, connecting fragments, Long-term product st
 
 RP(Release planning) comes up with decisions related to selecting and assigning features/requirements to create a sequence of consecutive product releases that satisfies important technical, resource, budget, risk management and so on . 
 A good RP should:
-1. Provide maximum business value by offering the best possible blend of features in the right release.
-2. Satisfy the stakeholders who are the most important.
-3. Be feasible with resources and reflect existing dependencies requirements or features.
+* 1. Provide maximum business value by offering the best possible blend of features in the right release.
+* 2. Satisfy the stakeholders who are the most important.
+* 3. Be feasible with resources and reflect existing dependencies requirements or features.
 
 
 -------
@@ -53,6 +55,7 @@ This paper introduce two approaches to release planning. The first one is the ar
 There are some difficulties of creating a release plan:
 
 1.Understanding of the planning objectives, constraints, stakeholders and feature preferences. 2. The planning scope is limited to the next release. 3.The project management includes many steps, how to perform the process effectively and efficiently is a challenge.
+
 Later, the author introduce some essential part of RP which we have to consider by some equations. 1.Decision variables aims at assigning the feature to K of release options.  2.Dependencies between features and meanwhile a coupling relation called C and a precedence relation called P are used. 3.Resource constraints, every feature require an amount of source, and it should be within the capability 4.Stakeholders, different stakeholeders have different level of importance, so their feedback or idea has different influence. 5.Feature prioritization usually voted by stakeholders and make a order 6. Objective function
 
 At last, the author comes up with a hybrid approach based on integer linear programming. There are several phases. Phase1:Modeling (including a.Plan objectives and constraints b.Offer stakeholder voting. c.Estimate resources.)  Phase2: Exploration（generate the solution plan） Phase3:Consolidation(the algorithm's solution will be evaluated by decision makers)
@@ -71,13 +74,14 @@ The approach with the modeling-exploation-consolidation step is good. It is very
 #### Article "A Case Study Evaluation of the Guideline-Supported QUPER Model for Elicitation of Quality Requirements" 
 This is the paper through a case study to evaluate QUPER Model for Elicitation of Quality Requirements.
 QUPER Model aims to support high-level decision-making in release planning of quality requirements. The author points the steps of QUPER  Model.
-Step1: Identify candidate QR. It refers that when we define QR, we have to consider relevant features, niche market, competitors, and the hardware platform.
-Step2: Define scale and unit. It means that a scale and a measurement unit can be used to help us express the level of QR.
-Step3: Identify reference levels. It is based on actual products and help further calibrate QR's estimation and objective measures.
-Step4: Elicit quality breakpoints. This step is that, firstly, the utility breakpoint is determined. Then, the saturation breakpoint is determined. We determine the differentiation breakpoint between the utility and the saturation that build above.
-Step5: Estimate cost barriers. It recommends that identify 2 similar quality requirements from other projects as input, for one is mainly related to software changes and the other is related to hardware components.
-Step6: Set candidate requirements. We can specify two targets like Good or Stretch target to specify the interval of a actual QR.
-Step7: Identify cost dependencies :If more than two QR affect, they always dependent. Or we can use existing dependency tools to identify dependencies.
+
+* Step1: Identify candidate QR. It refers that when we define QR, we have to consider relevant features, niche market, competitors, and the hardware platform.
+* Step2: Define scale and unit. It means that a scale and a measurement unit can be used to help us express the level of QR.
+* Step3: Identify reference levels. It is based on actual products and help further calibrate QR's estimation and objective measures.
+* Step4: Elicit quality breakpoints. This step is that, firstly, the utility breakpoint is determined. Then, the saturation breakpoint is determined. We determine the differentiation breakpoint between the utility and the saturation that build above.
+* Step5: Estimate cost barriers. It recommends that identify 2 similar quality requirements from other projects as input, for one is mainly related to software changes and the other is related to hardware components.
+* Step6: Set candidate requirements. We can specify two targets like Good or Stretch target to specify the interval of a actual QR.
+* Step7: Identify cost dependencies :If more than two QR affect, they always dependent. Or we can use existing dependency tools to identify dependencies.
 After introducing QUPER, the author tells us about his case study evaluation of QUPER.Two methodology used by the author are interviews and questionnaires. He finds that it is important to concrest guidelines combined with instructive examples from real practice.Future work includes industry assessments in different areas. The long-term impact of using QUPER needs to be investigated in order to adequately validate its feasibility and scalability.
 In addition, in order to replicate this empirical study in the same field, the usefulness and applicability of the QUPER model in different companies is an interesting future work. In addition, the transferability of guidelines and examples used to support methodological adoption and the use of analog-based estimates are interesting questions for further study.
 
@@ -111,11 +115,14 @@ First, the role involved in REPEAT can be various:Requirements Management Group,
 Meanwhile each unique requirement has a life cycle through specific states: New,Assigned,Classified, Selected (this 4 states can be Rejected)and Applied.
 REPEAT includes several phases:
 
-1.Elicitation Phase includes collection(made by an issuer in the web form and upload for storing in RQDB) and classification(through RQMG by assigning it to an expert).
-2.Selection Phase the aim of the phase is to 1.select requirements to execute in the current release. 2. make the selected requirements more detail 3.Validate the document of requirement  This phase will output the RD includes a selected list, a detailed specification an a non- selected list.
-3.The 3rd phase include Change management, Construction(using an iterative design and implementation process), Verification(using requirements-based testing method) and Conclusion(collect metrics and write a final report)
-4.There are some Process Enactment Scenarios of REPEAT
-In the end ,the author point out some challenges which can be fixed and improved in the future: overload control, connecting fragments, Long-term product strategy and so on.
+* 1.Elicitation Phase includes collection(made by an issuer in the web form and upload for storing in RQDB) and classification(through RQMG by assigning it to an expert).
+
+* 2.Selection Phase the aim of the phase is to 1.select requirements to execute in the current release. 2. make the selected requirements more detail 3.Validate the document of requirement  This phase will output the RD includes a selected list, a detailed specification an a non- selected list.
+
+* 3.The 3rd phase include Change management, Construction(using an iterative design and implementation process), Verification(using requirements-based testing method) and Conclusion(collect metrics and write a final report)
+
+* 4.There are some Process Enactment Scenarios of REPEAT
+* In the end ,the author point out some challenges which can be fixed and improved in the future: overload control, connecting fragments, Long-term product strategy and so on.
 
 I quite agree with the Fig 1."The states of a requirement in the REPEAT process" shown. Build a good requirement is a strict and long process, every step is important, once some risk or problem come up with, we can reject the requirement.
 The challenge that the author mentioned are worth considering.  For Overload control: there will be a lot of information through the website interface everyday. A mechanism that building sustainable requirements architecture can help solve this risk.
